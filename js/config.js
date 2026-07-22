@@ -1,0 +1,7 @@
+const API_URL = "https://api.example.com";
+const MAX_LOGIN_ATTEMPTS = 6;
+const SITE_MAIN_COLOR = "#3498db";
+const DATA_BASE_NAME = "user_data";
+const MINIMUM_PASSWORD_LENGTH = 8;
+
+console.log(API_URL, MAX_LOGIN_ATTEMPTS, SITE_MAIN_COLOR, DATA_BASE_NAME, MINIMUM_PASSWORD_LENGTH);
