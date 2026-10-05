@@ -1,0 +1,7 @@
+.full-text {
+    display: none;
+}
+
+.card.expanded .full-text {
+    display: block;
+}
